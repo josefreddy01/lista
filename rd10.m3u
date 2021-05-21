@@ -63,13 +63,13 @@ https://ss6.domint.net:3028/ame_str/amecanal47/chunklist_w316915483.m3u8
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w267933681.m3u8
 #EXTINF: -1, Mi Tv
 https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w1276666834.m3u8
-#EXTINF: -1, órbita tv
+#EXTINF: -1, Ã³rbita tv
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
 #EXTINF: -1, Resplandor Vision
 https://ss6.domint.net:2996/rtv_str/rvision/chunklist_w1031247278.m3u8
 #EXTINF: -1, Telebendicion
 https://ss8.domint.net:3124/tbt_str/telebendicion/chunklist_w2130053671.m3u8
-#EXTINF: -1,Señales Tv
+#EXTINF: -1,SeÃ±ales Tv
 https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 #EXTINF: -1, Telesur Canal 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1418583514.m3u8
@@ -105,8 +105,3 @@ https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Saboramerengue.do" tvg-name="Sabor a merengue" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://4.bp.blogspot.com/-V8ZyzsGFiOo/Wr0xO-i31hI/AAAAAAAAdG8/SrmsBscKPcI1KmcKvbhbVJA1gRXpw_vSwCLcBGAs/s200/Sabor%2Ba%2BMerengue.jpg" tvg-url="" group-title="",Sabor a merengue (720p)
 http://ss6.domint.net:2004/sam_str/sabor-video/playlist.m3u8
-
-
-
-
-
