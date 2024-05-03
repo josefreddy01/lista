@@ -1,5 +1,5 @@
 # EXTM3U
-#EXTINF: -1, RTVD
+#EXTINF:-1, RTVD
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/chunklist_w1643348094_b700000_slen.m3u8
 #EXTINF: -1, ColorVision 9
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY8lzyZSVarVbZAScK0ybstc)/dm/3/x7gy059/s/live-2.m3u8
@@ -67,13 +67,13 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1275574138.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w963598838.m3u8
 #EXTINF:-1,La Voz Del Tropico tv
 http://ss8.domint.net:2084/vttv_str/tropicotv/chunklist_w241168498.m3u8
-#EXTINF:-,Dominican Channel
+#EXTINF:-1,Dominican Channel
 https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-,Vega tv
+#EXTINF:-1,Vega tv
 https://ss6.domint.net:3060/tvm_str/montanatv/chunklist_w1211008542.m3u8
-#EXTINF:-,Romana tv
+#EXTINF:-1,Romana tv
 http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-,Valle Vision La Vega
+#EXTINF:-1,Valle Vision La Vega
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w2134440017.m3u8
 #EXTINF:-1,HERMANAS MIRABAL
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
