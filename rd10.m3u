@@ -91,15 +91,15 @@ https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?PlaylistM3UCL
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Onda TV
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="LVM.do" tvg-name="LVM" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="",LVM (480p)
+#EXTINF:-1,LVM (480p)
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PH.do" tvg-name="PH" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="",PH (720p)
+#EXTINF:-1,PH (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="",Telemicro (720p)
+#EXTINF:-1,Telemicro (720p)
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1 tvg-id="UrbancrisTV.do" tvg-name="UrbancrisTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-rijz_M9Mfjg/XodzU4USyHI/AAAAAAAAAkQ/86J2L7EgOvw71sXXbTH5_cAKf9CgXEnEwCLcBGAsYHQ/s320/UrbancrisTV.png" group-title="",UrbancrisTV (720p)
+#EXTINF:-1,UrbancrisTV (720p)
 https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8
-#EXTINF: -1, Teleantillas Canal 2
+#EXTINF:-1,Teleantillas Canal 2
 https://ss3.domint.net:3150/ta2_str/teleantillas/chunklist_w1562372542.m3u8
-#EXTINF: -1, Color Vision 9
+#EXTINF:-1,Color Vision 9
 https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYx7W6w_GelF9vscE_68k7kc)/dm/3/x7gy059/d/live-2.m3u8
