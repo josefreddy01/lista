@@ -77,19 +77,19 @@ http://tv.romanatv42.com/hls/live.m3u8
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w2134440017.m3u8
 #EXTINF:-1,HERMANAS MIRABAL
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-name="Super TV 55 (Santiago)" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" tvg-url="" group-title="",Super TV 55 (Santiago) (720p)
+#EXTINF:-1,Super TV 55 (Santiago) (720p)
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
-#EXTINF:-1 tvg-id="Telemilenio.do" tvg-name="Telemilenio" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" tvg-url="" group-title="",Telemilenio (720p)
+#EXTINF:-1,Telemilenio (720p)
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="108988" tvg-name="Farovision" tvg-logo="https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png", Farovision
+#EXTINF:-1,Farovision
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108972" tvg-name="Cibervision " tvg-logo="https://lh3.googleusercontent.com/-WjWVuyJWVMo/XzgVgnbtUBI/AAAAAAAA4TI/3mfIbpL5mBEbzKZVdsGW4gPqEhDdT3uYACK8BGAsYHg/s0/2020-08-15.jpg", Cibervision 
+#EXTINF:-1,Cibervision 
 http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108981" tvg-name="Global TV" tvg-logo="https://lh3.googleusercontent.com/-NfN-viDE0RA/XzgWRQJeKPI/AAAAAAAA4To/m3HIIZIFLcI0POVTRKYGSfq1Og4h9GmdQCK8BGAsYHg/s0/2020-08-15.png", Global TV
+#EXTINF:-1,Global TV
 https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108989" tvg-name="Musavision" tvg-logo="https://lh3.googleusercontent.com/-vqvx9FsfLk0/XzgWl2BgDoI/AAAAAAAA4Tw/j9hiiFJmW9cmkMKjRM4-v9VxR8eQfONawCK8BGAsYHg/s0/2020-08-15.jpg", Musavision
+#EXTINF:-1,Musavision
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="108956" tvg-name="Onda TV" tvg-logo="https://lh3.googleusercontent.com/-tfgvfH5WigA/XzgYP6_PPkI/AAAAAAAA4UM/NK7IQCeGzv8VwW2pjLty7GRAxjU3jhxeACK8BGAsYHg/s0/2020-08-15.png", Onda TV
+#EXTINF:-1,Onda TV
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="LVM.do" tvg-name="LVM" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="",LVM (480p)
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
