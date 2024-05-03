@@ -1,69 +1,69 @@
 # EXTM3U
-#EXTINF:-1, RTVD
+#EXTINF:-1,RTVD
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/chunklist_w1643348094_b700000_slen.m3u8
-#EXTINF: -1, ColorVision 9
+#EXTINF:-1,ColorVision 9
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY8lzyZSVarVbZAScK0ybstc)/dm/3/x7gy059/s/live-2.m3u8
-#EXTINF: -1, Telecentro 13
+#EXTINF:-1,Telecentro 13
 https://player-api.new.livestream.com/accounts/28126860/events/9438854/broadcasts/221350865.secure.m3u8
-#EXTINF: -1, RNN
+#EXTINF:-1,RNN
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1092854536.m3u8
-#EXTINF: -1, Teleuniverso Canal 29
+#EXTINF:-1,Teleuniverso Canal 29
 https://cdn4.hostlagarto.com:8081/static/teleuniverso/chunks.m3u8
-#EXTINF: -1, Teleradio America Canal 45
+#EXTINF:-1,Teleradio America Canal 45
 https://ss4.domint.net:3008/tra_str/canal45/chunklist_w1367623231.m3u8
-#EXTINF: -1, Carivision 
+#EXTINF:-1,Carivision 
 https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w1728347406.m3u8
-#EXTINF: -1, Canal 25
+#EXTINF:-1,Canal 25
 https://ss5.domint.net:3050/c25_str/canal25/chunklist_w451646825.m3u8
-#EXTINF: -1, CineVision Canal 19
+#EXTINF:-1,CineVision Canal 19
 https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Telefuturo Canal 23
+#EXTINF:-1,Telefuturo Canal 23
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1099895238.m3u8
-#EXTINF: -1, Teleunion Canal 16
+#EXTINF:-1,Teleunion Canal 16
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w937240790.m3u8
-#EXTINF: -1, Zol
+#EXTINF:-1,Zol
 https://ss3.domint.net:3108/zol_str/vzol/chunklist_w2020245801.m3u8
-#EXTINF:-1 tvg-id="ZTV.do" tvg-name="ZTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="",ZTV
+#EXTINF:-1,ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
-#EXTINF: -1, Telecanal12
+#EXTINF:-1,Telecanal12
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-#EXTINF: -1, Yuna Vision 10
+#EXTINF:-1,Yuna Vision 10
 https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w333492726.m3u8
-#EXTINF: -1, Bonao Tv
+#EXTINF:-1,Bonao Tv
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w832354374.m3u8
-#EXTINF: -1, Maimon Tv Canal 3
+#EXTINF:-1,Maimon Tv Canal 3
 https://ss3.domint.net:3138/mtv_str/maimon/chunklist_w2070362102.m3u8
-#EXTINF: -1, Dtv Bonao
+#EXTINF:-1,Dtv Bonao
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Luna TV
+#EXTINF:-1,Luna TV
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w341217095.m3u8
-#EXTINF: -1, Hilando Fino Tv
+#EXTINF:-1,Hilando Fino Tv
 https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1513207091_b978000.m3u8
-#EXTINF: -1, Microvision Canal 10
+#EXTINF:-1,Microvision Canal 10
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1410365277.m3u8
-#EXTINF: -1, Ready Tv
+#EXTINF:-1,Ready Tv
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w267933681.m3u8
-#EXTINF: -1, Mi Tv
+#EXTINF:-1,Mi Tv
 https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w1276666834.m3u8
-#EXTINF: -1, Telebendicion
+#EXTINF:-1,Telebendicion
 https://ss8.domint.net:3124/tbt_str/telebendicion/chunklist_w2130053671.m3u8
-#EXTINF: -1,Señales Tv
+#EXTINF:-1,Señales Tv
 https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Megavision 43
+#EXTINF:-1,Megavision 43
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1002483807.m3u8
-#EXTINF: -1, CTN
+#EXTINF:-1,CTN
 https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1509672123.m3u8
-#EXTINF: -1, Telenord 12
+#EXTINF:-1,Telenord 12
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1307057360.m3u8
-#EXTINF: -1, Nexxo
+#EXTINF:-1,Nexxo
 https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="",SiTV
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF: -1, Resplandor Vision
 https://ss6.domint.net:2996/rtv_str/rvision/chunklist_w1031247278.m3u8
-#EXTINF: -1, Digital Vision 63
+#EXTINF:-1,Digital Vision 63
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1275574138.m3u8
-#EXTINF: -1, Orbit Tv
+#EXTINF:-1,Orbit Tv
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w963598838.m3u8
 #EXTINF:-1,La Voz Del Tropico tv
 http://ss8.domint.net:2084/vttv_str/tropicotv/chunklist_w241168498.m3u8
