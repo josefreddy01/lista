@@ -9,15 +9,15 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" group-title="0005,RD Telemicro
 https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/xiiSIjz.png" group-title="RD" 22,RD TVH
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/xiiSIjz.png" group-title="RD", 22 RD TVH
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" 23,RD Telefuturo
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD", 23 RD Telefuturo
 https://ss9.domint.net:3054/tf_str/telefuturo/.m3u8
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/Mo4Wvdd.png" group-title="RD" 24,RD Multivision
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/Mo4Wvdd.png" group-title="RD", 24 RD Multivision
 https://ssh101-fl.bozztv.com/ssh101/canalmulti24/index.m3u8
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/mDK0zJX.png" group-title="RD" 25,RD Telemedios
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/mDK0zJX.png" group-title="RD", 25 RD Telemedios
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/y8nuELT.png" group-title="RD" 26,RD Makao
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/y8nuELT.png" group-title="RD", 26 RD Makao
 https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" group-title="173,Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
