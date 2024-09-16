@@ -1118,4 +1118,88 @@ https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
 https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 #EXTINF:-1 tvg-id="140" tvg-logo="https://i.imgur.com/o8iQESE.png" group-title="RD", 138 v3000
 https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
+#EXTINF:-1 tvg-id="141" tvg-logo="https://i.imgur.com/cLrFRhS.png" group-title="RD", 139 Faro Vision
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="142" tvg-logo="https://i.imgur.com/xSPp4Y5.png" group-title="RD", 140 Telesiglo
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/L6i6s1L.png" group-title="RD", 141 Nexxo
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="https://i.imgur.com/3q9jlIi.png" group-title="RD", 142 Mi Turno
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 tvg-id="145" tvg-logo="https://i.imgur.com/Kf6PDWD.jpg" group-title="RD", 143 Palmar TV
+https://vsrv2.az-streamingserver.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="146" tvg-id="0144" tvg-logo="https://i.imgur.com/QlpWOEQ.png" group-title="RD", Manaclar
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 tvg-id="147" tvg-logo="https://i.imgur.com/0pTNzK9.jpg" group-title="RD", 145 Radio Digital TV
+https://vdo.voxhdnet.com:3159/stream/play.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/fvm0V1D.png" group-title="RD", 146 Radio Emanuel
+https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
+#EXTINF:-1 tvg-id="149" tvg-logo="https://i.imgur.com/XkTepcQ.png" group-title="RD", 147 CanaTV
+https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
+#EXTINF:-1 tvg-id="150" tvg-logo="https://i.imgur.com/cFe3neu.png" group-title="RD", 148 Mia Vision
+https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="151" tvg-logo="https://i.imgur.com/ZNA84ot.png" group-title="RD", 149 NitidaTV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-logo="https://i.imgur.com/KjAPWxd.jpg" group-title="RD", 150 MorroTV
+https://soportedvb.click:3257/live/morrotvlive.m3u8
+#EXTINF:-1 tvg-id="153" tvg-logo="https://i.imgur.com/1E3ILQG.png" group-title="RD", 151 Xtremo Channel
+https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
+#EXTINF:-1 tvg-id="154" tvg-logo="https://i.imgur.com/ZVA03Uy.png" group-title="RD", 152 Telenord 8
+https://streamingamericaservice.info:19360/telenord8/telenord8.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="https://i.imgur.com/4PBIbpy.png" group-title="RD", 153 Telenord 10
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+#EXTINF:-1 tvg-id="156" tvg-logo="https://i.imgur.com/4PBIbpy.png" group-title="RD", 154 Telenord 12
+https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://i.imgur.com/XiOGyqe.png" group-title="RD", 155 Ecovision
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="158" tvg-logo="https://i.imgur.com/M67fhlc.png" group-title="RD", 156 Señales
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+#EXTINF:-1 tvg-id="159" tvg-logo="https://i.imgur.com/TXjWNDy.png" group-title="RD", 157 Ruta66
+https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
+#EXTINF:-1 tvg-id="160" tvg-logo="https://i.imgur.com/3zV7rdt.png" group-title="RD", 158 Telecanal28
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+#EXTINF:-1 tvg-id="161" tvg-logo="https://i.imgur.com/15UIOui.png" group-title="RD", 159 P3 RADIO TV
+https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-id="162" tvg-logo="https://i.imgur.com/varhs9Y.png" group-title="RD", 160 Makina Visión
+https://cdn5.streamgato.us/p/3059/live/maquinatvlive.m3u8
+#EXTINF:-1 tvg-id="163" group-title="RD" tvg-logo="https://i.imgur.com/Bc35jc1.png", 161 Tele Caribe
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/JRYIdqf.jpg" group-title="RD", 162 TLSD
+https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
+#EXTINF:-1 tvg-id="165" tvg-logo="https://i.imgur.com/Npdzhfm.jpeg" group-title="RD", 163 Fuerza Externa
+https://streamtv.intervenhosting.net:3404/live/fuerzaexternalive.m3u8
+#EXTINF:-1 tvg-id="166" tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD", 164 Luz Divina TV
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:-1 tvg-id="167" tvg-id="0165" tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD",TRA
+http://51.81.93.29:8084/hls/tra1.m3u8
+#EXTINF:-1 tvg-id="168" tvg-logo="https://i.imgur.com/DNxtCjk.png" group-title="RD", 166 NisibonTV
+https://5790d294af2dc.streamlock.net/nisibontv/nisibontv/playlist.m3u8
+#EXTINF:-1 tvg-id="169" tvg-logo="https://i.imgur.com/fBEJngF.png" group-title="RD", 167 Punta Cana TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1 tvg-id="170" tvg-id="0168" tvg-logo="https://i.imgur.com/TCBGRkV.png" group-title="RD", 168 CelestialTV
+https://5790d294af2dc.streamlock.net:443/celestial/celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="171" tvg-logo="https://i.imgur.com/gPN8y6h.png" group-title="RD", 169 Telever
+https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+#EXTINF:-1 tvg-id="172" tvg-logo="https://i.imgur.com/Go9gIEQ.jpg" group-title="RD", 170 RDN
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="173" tvg-logo="https://i.imgur.com/Go9gIEQ.jpg" group-title="RD", 171 SiembraTV
+https://vsrv2.az-streamingserver.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-id="174" tvg-logo="https://i.imgur.com/QlpWOEQ.png" group-title="RD", 172 ManaclarTV
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 tvg-id="175" tvg-logo="" group-title="RD", 172 Telejarabacoa
+https://glb.bozztv.com/glb/ssh101/amigote2021/index.m3u8
+#EXTINF:-1 tvg-id="176" tvg-logo="https://i.imgur.com/nrYwpai.png" group-title="Bonao",173 SensacionTV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+#EXTINF:-1 tvg-id="177" tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="RD",178 CDN Deportes
+https://glb.bozztv.com/glb/ssh101/cdndeportes/index.m3u8
+#EXTINF:-1 tvg-id="178" tvg-logo="" group-title="RD", 179 RealTV
+https://f.gmsiptv.com/memfs/d1d505cf-cce3-4fbb-98b0-06c000fd6118.m3u8
+#EXTINF:-1 tvg-id="179" tvg-logo="" group-title="RD", 180 Televiaducto03
+https://f.gmsiptv.com/memfs/d54468d6-cc67-44c9-8368-43360a5b8b0e.m3u8
+#EXTINF:-1 tvg-id="180" tvg-logo="https://i.imgur.com/crPcUzm.png" group-title="RD", 181 TNE58
+https://f.gmsiptv.com/memfs/6f137b2f-c6f5-4087-89bc-732cf5d09fbf.m3u8
+#EXTINF:-1 tvg-id="181" tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD",TV Avivamiento
+https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
+#EXTINF:-1 tvg-id="182" tvg-id="TeleBendicion.do" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="Bonao",TeleBendicion (720p) [Not 24/7]
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 
