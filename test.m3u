@@ -854,3 +854,26 @@ https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="008" tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD",  8 Constanza
 https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
+#EXTINF:-1 tvg-id="009" tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD", 9 Color Vision
+https://fl1002.bozztv.com/ssh101/0009/index.m3u8
+#EXTINF:-1 tvg-id="010" tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD", 13 RD Teleantillas
+https://glb.bozztv.com/glb/ssh101/0010/index.m3u8
+#EXTINF:-1 tvg-id="011" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD", 11 Telesistema
+https://fl1002.bozztv.com/ssh101/0011/index.m3u8
+#EXTINF:-1 tvg-id="012" tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD", 12 ZTV
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:-1 tvg-id="013" tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD", 13 Telecentro
+https://fl1002.bozztv.com/ssh101/0013/index.m3u8
+#EXTINF:-1 tvg-id="014" tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD", 14 Catorce
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1 tvg-id="015" tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD", 15 Digital Quince
+https://fl1002.bozztv.com/ssh101/0015/index.m3u8
+#EXTINF:-1 tvg-id="016" tvg-logo="https://i.imgur.com/qdKhDRH.png" group-title="RD", 16 N16
+https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:-1 tvg-id="017" tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD", 17 AION
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-id="018" tvg-logo="https://i.imgur.com/SNfABoY.png" group-title="RD", 18 Carivision
+https://fl1002.bozztv.com/ssh101/0018/index.m3u8
+#EXTINF:-1 tvg-id="019" tvg-logo="https://i.imgur.com/Eo6RB4l.png" group-title="RD", 19 Canal 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:-1 tvg-id="020" tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD", 20 Cielo
