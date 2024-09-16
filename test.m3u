@@ -950,11 +950,11 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/.m3u8
 https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-id="056" tvg-logo="https://i.imgur.com/HmkEEXC.png" group-title="RD", 56 Canal 56
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
-#EXTINF:-1  tvg-id="057" tvg-logo="https://i.imgur.com/EjzsVG4.png" group-title="RD", 57 Telecontacto
+#EXTINF:-1 tvg-id="057" tvg-logo="https://i.imgur.com/EjzsVG4.png" group-title="RD", 57 Telecontacto
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
-#EXTINF:-1  tvg-id="058" tvg-logo="https://i.imgur.com/nLBCWZr.png" group-title="RD", 58 Valle Nuevo TV
+#EXTINF:-1 tvg-id="058" tvg-logo="https://i.imgur.com/nLBCWZr.png" group-title="RD", 58 Valle Nuevo TV
 https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
-#EXTINF:-1  tvg-id="059" tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="RD", 59 Rumba
+#EXTINF:-1 tvg-id="059" tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="RD", 59 Rumba
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
-#EXTINF:-1  tvg-id="060" tvg-logo="https://i.imgur.com/ZORgpwp.png" group-title="RD", 60 Telealtura 
+#EXTINF:-1 tvg-id="060" tvg-logo="https://i.imgur.com/ZORgpwp.png" group-title="RD", 60 Telealtura 
 https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
