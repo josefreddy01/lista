@@ -1,24 +1,26 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RD", Bloomberg
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD", 23 RD Telefuturo
+#EXTM3U
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RD", Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD", TV Luz
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD", TV Luz
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="RD", Mision ELTV
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="RD", Mision ELTV
 https://fl1002.bozztv.com/ssh101/misioneltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLYPLI4.png", group-title="RD", 4 RTVD
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/gLYPLI4.png", group-title="RD", 4 RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD", 5 Telemicro
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD", 5 Telemicro
 https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD", 6 Canal del Sol
+#EXTINF:-1 tvg-id="002RadioTV.do"tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD", 6 Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD", 7 Antena7
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD", 7 Antena7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD",  8 Constanza
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD",  8 Constanza
 https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD", 9 Color Vision
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD", 9 Color Vision
 https://fl1002.bozztv.com/ssh101/0009/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD", 13 RD Teleantillas
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD", 13 RD Teleantillas
 https://glb.bozztv.com/glb/ssh101/0010/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD", 11 Telesistema
+#EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD", 11 Telesistema
 https://fl1002.bozztv.com/ssh101/0011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD", 12 ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
