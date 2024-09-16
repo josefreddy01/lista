@@ -838,3 +838,11 @@ https://f.gmsiptv.com/memfs/6f137b2f-c6f5-4087-89bc-732cf5d09fbf.m3u8
 https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-id="TeleBendicion.do" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="Bonao",TeleBendicion (720p) [Not 24/7]
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="001" tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RD", Bloomberg
+https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="002" tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD", TV Luz
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-id="003" tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="RD", Mision ELTV
+https://fl1002.bozztv.com/ssh101/misioneltv/index.m3u8
+#EXTINF:-1 tvg-id="004" tvg-logo="https://i.imgur.com/gLYPLI4.png", group-title="RD", 4 RTVD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
