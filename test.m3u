@@ -982,19 +982,19 @@ https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 tvg-id="072" tvg-logo="https://i.imgur.com/pdy54gc.png" group-title="RD", 72 CDN Radio
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/6a28df0ab60c47c18390887522edd6f3/chunklist_b4628000.m3u8?p=79&s=1712609478&e=1712609598&h=05b22ce1d37d20a9d64241e2465094cf
-#EXTINF:-1 tvg-id="073"  tvg-logo="https://i.imgur.com/TxseHXG.png" group-title="RD", 73 Galaxia
+#EXTINF:-1 tvg-id="073" tvg-logo="https://i.imgur.com/TxseHXG.png" group-title="RD", 73 Galaxia
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-#EXTINF:-1 tvg-id="074"  tvg-logo="https://i.imgur.com/twZCrEE.png" group-title="RD", 74 Guaymate
+#EXTINF:-1 tvg-id="074" tvg-logo="https://i.imgur.com/twZCrEE.png" group-title="RD", 74 Guaymate
 https://5790d294af2dc.streamlock.net/8100/8100/.m3u8
-#EXTINF:-1 tvg-id="075"  tvg-logo="https://i.imgur.com/pnLQsNa.png" group-title="RD", 75 BebetoTV
+#EXTINF:-1 tvg-id="075" tvg-logo="https://i.imgur.com/pnLQsNa.png" group-title="RD", 75 BebetoTV
 https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
-#EXTINF:-1 tvg-id="076"  tvg-logo="https://i.imgur.com/Rd0BKht.png" group-title="RD", 76 Opcion
+#EXTINF:-1 tvg-id="076" tvg-logo="https://i.imgur.com/Rd0BKht.png" group-title="RD", 76 Opcion
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="077"  tvg-logo= tvg-id="" group-title="RD" 77,RD Zona Vision
+#EXTINF:-1 tvg-id="077" tvg-logo= tvg-id="" group-title="RD" 77,RD Zona Vision
 https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/.m3u8
-#EXTINF:-1 tvg-id="078"  tvg-logo="https://i.imgur.com/r6YLQTD.jpg" group-title="RD", 78 ArrozTV
+#EXTINF:-1 tvg-id="078" tvg-logo="https://i.imgur.com/r6YLQTD.jpg" group-title="RD", 78 ArrozTV
 https://inliveserver.com:1936/11548/11548/playlist.m3u8
-#EXTINF:-1 tvg-id="079"  tvg-logo="https://i.imgur.com/NGtIcsX.png" group-title="RD", 79 TV10M San Juan
+#EXTINF:-1 tvg-id="079" tvg-logo="https://i.imgur.com/NGtIcsX.png" group-title="RD", 79 TV10M San Juan
 https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
-#EXTINF:-1 tvg-id="080"  tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="RD", 80 CTN horaXhora
+#EXTINF:-1 tvg-id="080" tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="RD", 80 CTN horaXhora
 https://59ef525c24caa.streamlock.net/ctn/ctn/.m3u8
