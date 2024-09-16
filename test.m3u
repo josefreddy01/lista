@@ -844,5 +844,13 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 #EXTINF:-1 tvg-id="003" tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="RD", Mision ELTV
 https://fl1002.bozztv.com/ssh101/misioneltv/index.m3u8
-#EXTINF:-1 tvg-id="004" tvg-logo="https://i.imgur.com/gLYPLI4.png", group-title="RD", 4 RTVD
+#EXTINF:-1 tvg-id="004" tvg-logo="https://i.imgur.com/gLYPLI4.png" group-title="RD", 4 RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
+#EXTINF:-1 tvg-id="005" tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD", 5 Telemicro
+https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
+#EXTINF:-1 tvg-id="006" tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD", 6 Canal del Sol
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
+#EXTINF:-1 tvg-id="007" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD", 7 Antena7
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="008" tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD",  8 Constanza
+https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
