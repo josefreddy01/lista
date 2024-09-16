@@ -5,6 +5,21 @@ https://cdn.002radio.com:3909/live/radio002live.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" group-title="0004,RD RTVD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" group-title="0005,RD Telemicro
+https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" group-title="173,Canal del Sol
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" group-title="0007,RD Antena7
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD" group-title="0008,RD Constanza
+https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" group-title="0009,RD Color Vision
+https://fl1002.bozztv.com/ssh101/0009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" group-title="0010,RD Teleantillas
+https://glb.bozztv.com/glb/ssh101/0010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" group-title="11,RD Telesistema
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
