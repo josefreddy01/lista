@@ -1058,4 +1058,64 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/yLLQTWa.jpg" group-title="RD", 110 CibaeñaTV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="111" tvg-logo="https://i.imgur.com/7ATsXdO.png" group-title="Bonao", 4 MaimonTV
+https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-id="MaimonTVCanal3.do" tvg-logo="https://i.imgur.com/twldaaC.png" group-title="Bonao",Maimón TV Canal 3 (720p)
+https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
+#EXTINF:-1 tvg-id="113" tvg-logo="https://i.imgur.com/laFJQxs.png" group-title="RD", 112 Canalda
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="https://i.imgur.com/nCoytgT.png" group-title="RD", 113 Canal HTV
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="https://i.imgur.com/4w9RA9D.png" group-title="RD", 114 Vallevision
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="116" tvg-logo="https://i.imgur.com/8iev8u5.png" group-title="RD", 115 Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="https://i.imgur.com/WPIDkoU.png" group-title="RD", 116 MegaTV
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="https://i.imgur.com/6OQtONU.png" group-title="RD", 117 TV Latina Int.
+https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://i.imgur.com/VRPYIsP.png" group-title="RD", 118 ReporteroTV
+https://rdn.essastream.com:3832/live/reporterotvlive.m3u8
+#EXTINF:-1 tvg-id="120" tvg-logo="https://i.imgur.com/kTPmQAx.jpg" group-title="RD", 119 Marka TV
+https://rdn.essastream.com:3909/live/markatvlive.m3u8
+#EXTINF:-1 tvg-id="121" tvg-logo="https://i.imgur.com/SKDwptY.png" group-title="RD", 120 HMTV
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/3gn1RgD.png" group-title="RD", 121 La mia
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/NoRvqPd.png" group-title="RD", 122 PrensaTV
+https://cdn5.streamgato.us:3300/live/prensatvlive.m3u8
+#EXTINF:-1 tvg-id="124" tvg-logo="https://i.imgur.com/rufMCFJ.jpg" group-title="RD", 123 SurTV
+https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8
+#EXTINF:-1 tvg-id="125" tvg-logo="https://i.imgur.com/b1rJHq6.png" group-title="RD", 124 Teleradio Norte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1 tvg-id="126" tvg-logo="https://i.imgur.com/PNOPnYI.png" group-title="Bonao", 10 Yuna Vision
+https://ss9.domint.net:3036/yv_str/yunavision/.m3u8
+#EXTINF:-1 tvg-id="127" tvg-id="BonaoTV.do" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Bonao", 12 Bonao TV (720p)
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1 tvg-id="128" tvg-logo="https://i.imgur.com/ltuA3xh.png" group-title="RD", 126 Tele Oriental
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+#EXTINF:-1 tvg-id="129" tvg-logo="https://i.imgur.com/l3Ft2D4.png" group-title="RD", 127 TeleCibao
+https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.imgur.com/ZIKLCbt.png" group-title="RD", 128 Rteve
+https://cnn2.hostlagarto.com:3325/live/rtelevisionlive.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="https://i.imgur.com/4SZ8bNq.png" group-title="RD", 129 DajaTV
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:-1 tvg-id="132" tvg-logo="https://i.imgur.com/CmsN97v.jpg" group-title="RD", 130 OEPM
+https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+#EXTINF:-1 tvg-id="133" tvg-logo="https://i.imgur.com/b5yw483.png" group-title="RD", 131 TVS
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/4wRg3ky.png" group-title="RD", 132 La Super Discoteca
+https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
+#EXTINF:-1 tvg-id="135" tvg-logo="https://i.imgur.com/Jyq5MFI.png" group-title="RD", 133 CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-id="136" tvg-logo="https://i.imgur.com/w9K3EA0.png" group-title="RD", 134 Portal Digital
+https://vdo1.streamgato.us:3999/live/portaldigitallive.m3u8
+#EXTINF:-1 tvg-id="137" tvg-logo="https://i.imgur.com/4yGf7yw.jpg" group-title="RD", 135 InformeTV
+https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
+#EXTINF:-1 tvg-id="138" tvg-logo="https://i.imgur.com/GgZVG1e.png" group-title="RD", 136 La Voz del Tropico
+https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
+#EXTINF:-1 tvg-id="139" tvg-logo="https://i.imgur.com/aiX91mx.png" group-title="RD", 137 Peravia Visión
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+#EXTINF:-1 tvg-id="140" tvg-logo="https://i.imgur.com/o8iQESE.png" group-title="RD", 138 v3000
+https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
 
