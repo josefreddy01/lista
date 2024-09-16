@@ -918,3 +918,43 @@ https://glb.bozztv.com/glb/ssh101/acento/index.m3u8
 https://glb.bozztv.com/glb/ssh101/0039/index.m3u8
 #EXTINF:-1 tvg-id="040" tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD", 40 Vozz
 https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="041" tvg-logo="https://i.imgur.com/jGNIexA.png" group-title="RD", 41 AltantoTV
+https://streaming.altantotv.domiplay.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="042" tvg-logo="https://i.imgur.com/x3hdWZ3.png" group-title="RD", 42 RomanaTV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="043" tvg-logo="https://i.imgur.com/MbLP5OW.png" group-title="RD", 43 Telenovisa
+https://f.gmsiptv.com/memfs/f7fc75d3-5dbd-4341-aed2-868f099dbfe5.m3u8
+#EXTINF:-1 tvg-id="044" tvg-logo="https://i.imgur.com/I7Lpqp9.png" group-title="RD", 44 Megavision
+https://server2grupocam.com/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-id="045" tvg-logo="https://i.imgur.com/dANzece.png" group-title="RD", 45 De Ultimo Minuto
+https://glb.bozztv.com/glb/ssh101/0045/index.m3u8
+#EXTINF:-1 tvg-id="046" tvg-logo="https://i.imgur.com/3qsvkZD.png" group-title="RD", 46 BajoTecho
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
+#EXTINF:-1 tvg-id="047" tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD", 47 SiTV
+https://f.gmsiptv.com/memfs/b34318f8-459b-4d32-ab91-8b5681589cfd.m3u8
+#EXTINF:-1 tvg-id="048" tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD", 48 EL Nuevo Diario
+https://glb.bozztv.com/glb/ssh101/0048/index.m3u8
+#EXTINF:-1 tvg-id="049" tvg-logo="https://i.imgur.com/mqqAytI.png" group-title="RD", 49 Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="050" tvg-logo="https://i.imgur.com/KFh18tt.png" group-title="RD", 50 Telemilenio
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-id="051" tvg-logo="https://i.imgur.com/N6oOdZc.png" group-title="RD", 51 Cotubanama
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="052" tvg-logo="https://i.imgur.com/8bZNPFo.png" group-title="RD", 52 Teleimpacto
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="053" tvg-logo="https://i.imgur.com/cYqCf8K.png" group-title="RD", 53 Luna
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="054" tvg-logo="https://i.imgur.com/FO6176j.png" group-title="RD", 54 LVM
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/.m3u8
+#EXTINF:-1 tvg-id="055" tvg-logo="https://i.imgur.com/c9rMZ2x.png" group-title="RD", 55 SuperTV55
+https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
+#EXTINF:-1 tvg-id="056" tvg-logo="https://i.imgur.com/HmkEEXC.png" group-title="RD", 56 Canal 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+#EXTINF:-1  tvg-id="057" tvg-logo="https://i.imgur.com/EjzsVG4.png" group-title="RD", 57 Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1  tvg-id="058" tvg-logo="https://i.imgur.com/nLBCWZr.png" group-title="RD", 58 Valle Nuevo TV
+https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1  tvg-id="059" tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="RD", 59 Rumba
+https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+#EXTINF:-1  tvg-id="060" tvg-logo="https://i.imgur.com/ZORgpwp.png" group-title="RD", 60 Telealtura 
+https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
